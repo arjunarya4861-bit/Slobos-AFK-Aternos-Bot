@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "malayali_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "minigamesfun-aSJz.aternos.me",
-    "port": 13189,
+    "ip": "DeamonSlayerLESPLAY.aternos.me",
+    "port": 18328,
     "version": "",
     "try-creative": false
   },
